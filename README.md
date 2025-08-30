@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hello world, I'm Noemí 👋
+# 🌱 🫐 🌱 🫐 🌱 🫐 🌱 🫐 🌱
 
-<!--
-**noemirtil/noemirtil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I can communicate in english, spanish, catalan, or french.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently looking for an internship starting on november 18, 2025
+- 👩🏻‍💻 I’m currently learning Python, JavaScript, Swift, html, css, and shell scripting
+- 📚 Studying a full-stack curriculum with the catalan official professionnal training
+- 🐍 Also studying Python with Harvard's online curriculum
+- ✉️ How to reach me: [e-mail](noemirtil@gmail.com) [LinkedIn](https://www.linkedin.com/in/noemie-baudouin/)
+- 🙂 Pronouns: she, her
+- ⏭️ Coming from audio engineering in Paris to develop in Barcelona
+- 📌 One of my most recent works: [https://nebot-illan-avocate.fr/](https://nebot-illan-avocate.fr/)
