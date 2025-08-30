@@ -12,8 +12,8 @@
 	- Swift
 	- css
 	- Intending to fully understand vanilla concepts prior to using any frameworks
-- 📚 Studying a full-stack curriculum with the catalan official professionnal training
-- 🐍 Also studying **Python** with Harvard's online curriculum
+- 📚 Studying a full-stack curriculum with the [spanish official professionnal training](https://sede.sepe.gob.es/especialidadesformativas/RXBuscadorEFRED/DetalleEspecialidad.do?metodo=modulada&codEspecialidad=IFCD0210&volver=true&idBusquedaFormacion=&volverUrl=)
+- 🐍 Also studying **Python** with [**Harvard**'s online curriculum](https://pll.harvard.edu/course/cs50s-introduction-programming-python)
 - ✉️ How to reach me: 
 	- **[🫐 LinkedIn](https://www.linkedin.com/in/noemie-baudouin/)**
 	- **[🫐 email](noemirtil@gmail.com)**
