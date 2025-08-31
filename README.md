@@ -1,7 +1,7 @@
 ## Hello world, I'm Noemí 👩🏻‍💻
 # 🫐 🌱 🫐 🌱 🫐 🌱 🫐
 
-### I can communicate in english, spanish, catalan, or french.
+### Let's talk in english, spanish, catalan, or french.
 
 
 - 🔎 **Looking for an internship** starting november 18, 2025
