@@ -22,6 +22,3 @@
 - 🫐 Pronouns: she, her
 - ⏭️ Coming from audio engineering in Paris to develop stuff in **Barcelona**
 - 📌 One of my most recent works: [https://nebot-illan-avocate.fr/](https://nebot-illan-avocate.fr/)
-
-	[![JavaScript_HTML_CSS_Python_shell_terminal_swift](https://pimp-my-readme-next.vercel.app/api/technology?technology=Python_JavaScript)](https://pimp-my-readme-next.vercel.app)
-
