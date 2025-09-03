@@ -14,7 +14,7 @@
 	- Swift
 	- CSS
 	- Loving to fully dig vanilla concepts prior to using any frameworks
-- 📚 Studying a full-stack curriculum with the [spanish official professionnal training](https://sede.sepe.gob.es/especialidadesformativas/RXBuscadorEFRED/DetalleEspecialidad.do?metodo=modulada&codEspecialidad=IFCD0210&volver=true&idBusquedaFormacion=&volverUrl=)
+- 📚 Studying Web App Development with the [spanish official professionnal cursus](https://sede.sepe.gob.es/especialidadesformativas/RXBuscadorEFRED/DetalleEspecialidad.do?metodo=modulada&codEspecialidad=IFCD0210&volver=true&idBusquedaFormacion=&volverUrl=)
 - 🐍 Also studying **Python** with [**Harvard**'s online curriculum](https://pll.harvard.edu/course/cs50s-introduction-programming-python)
 - ✉️ How to reach me: 
 	- **[🫐 LinkedIn](https://www.linkedin.com/in/noemie-baudouin/)**
