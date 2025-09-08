@@ -7,7 +7,7 @@
 
 
 - 🔎 **Looking for an internship** starting november 18, 2025
-- 👩🏻‍💻 Currently learning:
+- 💾 Currently learning:
 	- Python
 	- JavaScript
 	- Shell scripting
