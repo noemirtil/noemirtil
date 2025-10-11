@@ -6,16 +6,15 @@
 
 
 
-- 🔎 **Looking for an internship** starting november 18, 2025
-- 💾 Currently learning:
-	- Python
-	- JavaScript
+- 🔎 **LOOKING FOR AN INTERNSHIP** starting november 18, 2025
+- 💾 DEVELOPING WITH 💜:
+	- **SQL**
+	- **Python**
 	- Shell scripting
 	- Swift
-	- CSS
-	- Loving to fully dig vanilla concepts prior to using any frameworks
-- 📚 Studying Web App Development with the [spanish official professionnal cursus](https://sede.sepe.gob.es/especialidadesformativas/RXBuscadorEFRED/DetalleEspecialidad.do?metodo=modulada&codEspecialidad=IFCD0210&volver=true&idBusquedaFormacion=&volverUrl=)
-- 🐍 Also studying **Python** with [**Harvard**'s online curriculum](https://pll.harvard.edu/course/cs50s-introduction-programming-python)
+	- JavaScript + CSS + HTML too, but I'm more of a backend girl
+- 📚 Currently qualifying with the [spanish official professionnal cursus](https://sede.sepe.gob.es/especialidadesformativas/RXBuscadorEFRED/DetalleEspecialidad.do?metodo=modulada&codEspecialidad=IFCD0210&volver=true&idBusquedaFormacion=&volverUrl=)
+- 🐍 Also specializing in **Python** + **SQL** with [**Harvard**'s online curriculum](https://pll.harvard.edu/course/cs50s-introduction-programming-python)
 - ✉️ How to reach me: 
 	- **[🫐 LinkedIn](https://www.linkedin.com/in/noemie-baudouin/)**
 	- **[🫐 email](noemirtil@gmail.com)**
