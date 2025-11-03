@@ -10,14 +10,13 @@
 - 💾 DEVELOPING WITH 💜:
 	- **SQL**
 	- **Python**
-	- Shell scripting
+	- JavaScript + CSS + HTML
+	- Shell
 	- Swift
-	- JavaScript + CSS + HTML too, but I'm more of a backend girl
 - 📚 Currently qualifying with the [spanish official professionnal cursus](https://sede.sepe.gob.es/especialidadesformativas/RXBuscadorEFRED/DetalleEspecialidad.do?metodo=modulada&codEspecialidad=IFCD0210&volver=true&idBusquedaFormacion=&volverUrl=)
 - 🐍 Also specializing in **Python** + **SQL** with [**Harvard**'s online curriculum](https://pll.harvard.edu/course/cs50s-introduction-programming-python)
 - ✉️ How to reach me: 
 	- **[🫐 LinkedIn](https://www.linkedin.com/in/noemie-baudouin/)**
 	- **[🫐 email](noemirtil@gmail.com)**
 - 🫐 Pronouns: she, her
-- ⏭️ Coming from audio engineering in Paris to develop stuff in **Barcelona**
-- 📌 One of my most recent works: [https://nebot-illan-avocate.fr/](https://nebot-illan-avocate.fr/)
+- ⏭️ Coming from audio engineering in Paris to develop stuff in Barcelona
