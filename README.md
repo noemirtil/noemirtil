@@ -9,8 +9,8 @@
 - 💾 DEVELOPING WITH 💜:
 	- **PostgreSQL**
 	- **Python**
+	- **Shell**
 	- JavaScript + CSS + HTML
-	- Shell
 	- Swift
 - 📚  Graduated in **Python** & **SQL** with [**Harvard**'s CS50](https://pll.harvard.edu/course/cs50s-introduction-programming-python)
 - ✉️ How to reach me: 
