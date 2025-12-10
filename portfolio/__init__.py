@@ -9,7 +9,7 @@ def create_app(test_config=None):
     # set some default configuration that the app will use. SECRET_KEY is used by Flask and extensions to keep data safe. It’s set to 'dev' to provide a convenient value during development, but it should be overridden with a random value when deploying. DATABASE is the path where the SQLite database file will be saved. It’s under app.instance_path, which is the path that Flask has chosen for the instance folder
     app.config.from_mapping(
         SECRET_KEY="f9d15ab32178e46ad4ceba3ae439bc07566b2f844037368b4172ff3579a85bc9",
-        DATABASE=os.path.join(app.instance_path, "flaskr.sqlite"),
+        DATABASE=os.path.join(app.instance_path, "portfolio.sqlite"),
         # .sqlite, .db and .db3 are common file extensions for SQLite databases and are functionally the same
     )
 
