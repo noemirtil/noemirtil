@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}{% endblock %} - Flaskr</title>
+    <!-- Flask automatically adds a static view that takes a path relative to the flaskr/static directory and serves it. Besides CSS, other types of static files might be files with JavaScript functions, or a logo image. They are all placed under the flaskr/static directory and referenced with url_for('static', filename='...').-->
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+
+<body>
+    <header>
+        <nav>
+            <h1>Flaskr</h1>
+            <ul>
+                {% if g.user %}
+                <!-- g is automatically available in templates. Based on if g.user is set (from load_logged_in_user), either the username and a log out link are displayed, or links to register and log in are displayed. -->
+                <li><span>{{ g.user['username'] }}</span></li>
+                <!-- url_for() is also automatically available, and is used to generate URLs to views instead of writing them out manually. -->
+                <li><a href="{{ url_for('auth.logout') }}">Log Out</a></li>
+                {% else %}
+                <li><a href="{{ url_for('auth.register') }}">Register</a></li>
+                <li><a href="{{ url_for('auth.login') }}">Log In</a></li>
+                {% endif %}
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section class="content">
+            <div class="heading">
+                {% block heading %}{% endblock %}
+            </div>
+            <!--  loops over each message returned by get_flashed_messages() -->
+            {% for message in get_flashed_messages() %}
+            <div class="flash">{{ message }}</div>
+            {% endfor %}
+            {% block content %}{% endblock %}
+        </section>
+    </main>
+</body>
+
+</html>
