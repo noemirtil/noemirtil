@@ -13,6 +13,7 @@
 	<img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" /> &nbsp;
 	<img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" /> &nbsp;
 	<img src="https://img.icons8.com/color/48/000000/bash.png" alt="Shell" /> &nbsp;
+	<img src="https://img.icons8.com/color/48/000000/docker.png" alt="Shell" /> &nbsp;
 	<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="Javascript" /> &nbsp;
 	<img src="https://img.icons8.com/color/48/000000/swift.png" alt="Swift" /> &nbsp;
 	<img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" /> &nbsp;
